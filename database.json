@@ -1,0 +1,19 @@
+{
+    "dev": {
+        "host": "localhost",
+        "user": "root",
+        "password": "root",
+        "database": "cebit",
+        "driver": "mysql",
+        "multipleStatements": true
+    },
+    "production": {
+        "host": "localhost",
+        "user": "root",
+        "password": "root",
+        "database": "cebit",
+        "driver": "mysql",
+        "multipleStatements": true
+    },
+    "sql-file" : true
+}
